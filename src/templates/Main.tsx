@@ -33,7 +33,7 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">GitHub</a>
+              <a href="https://www.linkedin.com/in/vishwamithra-mv-0b48b399/">LinkedIn</a>
             </li>
           </Navbar>
         </div>
@@ -47,15 +47,9 @@ const Main = (props: IMainProps) => (
         {new Date().getFullYear()}
         {' '}
         {Config.title}
-        . Powered with
+        . Maintained by Anirudh.
         {' '}
-        <span role="img" aria-label="Love">
-          ♥
-        </span>
-        {' '}
-        by
-        {' '}
-        <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+        <a href="https://creativedesignsguru.com">Template</a>
         {/*
          * PLEASE READ THIS SECTION
          * We'll really appreciate if you could have a link to our website
