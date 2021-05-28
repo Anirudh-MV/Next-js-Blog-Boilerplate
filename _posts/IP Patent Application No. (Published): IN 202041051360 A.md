@@ -1,5 +1,5 @@
 ---
-title: 'MV Vishwamithra'
+title: 'Patent Details'
 description: 'IP Patent Application No. (Published): IN 202041051360 A'
 date: '2021-05-28'
 modified_date: '2021-05-28'
